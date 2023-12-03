@@ -1,2 +1,3 @@
-# hemanth_20005
-1st repository
+# hemanth_2005
+1st my first repository
+Author -hemanth kumar s
